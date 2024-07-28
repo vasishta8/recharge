@@ -1,0 +1,4 @@
+Pillow
+mysql-connector-python
+pyglet
+pwinput
